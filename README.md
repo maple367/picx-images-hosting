@@ -9,3 +9,6 @@ If you like it, please give it a star on [GitHub](https://github.com/XPoet/picx)
 
 # About this site
 This site is picture repository of [Maple's Blog](https://www.maple367.eu.org/).
+
+# TODO 
+- [] Need to rebulid
