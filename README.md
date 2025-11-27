@@ -9,7 +9,7 @@ If you like it, please give it a star on [GitHub](https://github.com/XPoet/picx)
 
 # About this site
 This site is picture repository of [Maple's Blog](https://www.maple367.eu.org/).
-![maple](maple_logo.szdyt3r7z.webp)
+![maple](maple_logo.webp)
 
 # TODO 
 - [ ] Need to rebulid
